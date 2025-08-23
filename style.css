@@ -1,0 +1,28 @@
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #fffcf5; /* bone white */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  text-align: center;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.logo {
+  width: 240px;
+  margin-bottom: 20px;
+}
+
+h1 {
+  font-size: 2rem;
+  color: #111;
+}
